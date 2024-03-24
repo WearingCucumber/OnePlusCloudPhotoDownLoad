@@ -1,0 +1,2 @@
+# OnePlusCloudPhotoDownLoad
+用于一加云服务照片下载(真的很无语照片居然不给批量下载的功能)
